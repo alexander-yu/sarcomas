@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+checkpoints
+data
+logs
+.ipynb_checkpoints
+
+*.h5
+*.csv
+
